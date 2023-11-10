@@ -12,7 +12,7 @@ Vedlagt ligger:
 
 Det er ett mål å opprettholde ett *tilstrekkelig nivå av tester*, selv om koden nå har en del mangler. Ny kode kan med fordel testes der annet ikke er 
 anmerket.
-
+ 
 Det er foretrukket at en oppgave løses per git commit.
 
 Det er ikke nødvendig å løse oppgavene i en bestemt rekkefølge.
